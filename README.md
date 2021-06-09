@@ -29,11 +29,4 @@ List of dependencies for running this application.
  ![image4](https://github.com/mayanksharma019/Handwritten-Digit-Recognition/blob/master/Images/prediction2.PNG)<br /><br />
  
 
-## How to use
-1. Download or clone this repository.
-2. Use  **```git clone https://github.com/mayanksharma019/Handwritten-Digit-Recognition.git```**
-3. Extract the repository to some location.
-4. Weights and model configuration is saved in **```mnist_handwritten.h5```** file.
-5. Run **```prediction.ipynb```** and give your own handwritten image as input.
-    
  
